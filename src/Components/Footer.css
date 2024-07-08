@@ -1,0 +1,22 @@
+.footer {
+  margin: 50px 170px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.footer-left {
+  display: flex;
+  justify-content: space-between;
+  font-size: 17px;
+}
+.footer-right {
+  display: flex;
+  gap: 49px;
+  margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+  .footer {
+    margin: 50px 70px;
+    width: 100%;
+  }
+}
