@@ -10,7 +10,7 @@ import github_icon from "../assets/github.png";
 import react_icon from "../assets/react.png";
 
 const About = () => {
-  const resume= "./src/Resume(Shishir Bohara).pdf";
+  const resume= "https://drive.google.com/file/d/1xAHXl04DHNV5zXCPkgfEL3Bhm13uCCLZ/view";
 
   return (
     <div id="about" className="about">
