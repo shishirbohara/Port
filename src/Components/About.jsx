@@ -10,8 +10,6 @@ import github_icon from "../assets/github.png";
 import react_icon from "../assets/react.png";
 
 const About = () => {
-  const resume= "https://drive.google.com/file/d/1xAHXl04DHNV5zXCPkgfEL3Bhm13uCCLZ/view";
-
   return (
     <div id="about" className="about">
       <div className="about-title">
@@ -64,7 +62,6 @@ const About = () => {
           </div>
         </div>
       </div>
-      <a className="resume" href={resume} target="_blank" rel="noopener noreferrer">My resume</a>
     </div>
   );
 };

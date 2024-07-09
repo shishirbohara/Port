@@ -48,17 +48,6 @@
   transform: scale(1.3);
   transition: 0.3s;
 }
-.resume {
-  color: #1d3557;
-  font-size: 22px;
-  padding: 20px 30px 20px 30px;
-  background: linear-gradient(267deg, #457b9d 0.36%, #a8dadc 102.06%);
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-  transition: 0.3s;
-  text-decoration: none;
-}
 .resume:hover {
   background: linear-gradient(267deg, #457b9d 10%, #a8dadc 130.06%);
   transition: 0.3s;
