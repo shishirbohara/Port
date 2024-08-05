@@ -13,7 +13,7 @@ const Works = () => {
       <div className="work-containers">
         <div className="work-container">
           <a
-            href="https://github.com/shishirbohara/University"
+            href="https://evergreenuniversity.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -22,7 +22,7 @@ const Works = () => {
         </div>
         <div className="work-container">
           <a
-            href="https://github.com/shishirbohara/Todolist"
+            href="https://todoapplicationx.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -31,7 +31,7 @@ const Works = () => {
         </div>
         <div className="work-container">
           <a
-            href="https://github.com/shishirbohara/Weather-app"
+            href="https://weatherforecas.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
