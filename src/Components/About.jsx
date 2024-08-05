@@ -8,6 +8,7 @@ import nodejs_icon from "../assets/node.png";
 import mongodb_icon from "../assets/mongo.png";
 import github_icon from "../assets/github.png";
 import react_icon from "../assets/react.png";
+import resume from "../assets/Resume_shishir.pdf";
 
 const About = () => {
   return (
@@ -62,6 +63,9 @@ const About = () => {
           </div>
         </div>
       </div>
+      <a href={resume} download className="resume">
+        Download resume
+      </a>
     </div>
   );
 };
